@@ -1,70 +1,25 @@
-# Getting Started with Create React App
+# 🏎️ Fashion + F1 Atelier
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to **Fashion + F1 Atelier**, a high-octane web app to design F1-inspired racewear, including custom helmets! Built with React, Node.js, and Three.js, it lets you create gear with race-specific presets, preview in 3D, and showcase via AR during F1 weekends. With a Kræe-inspired cinematic UI, it’s your pit lane for creativity.
 
-## Available Scripts
+## 🏁 Features
+- **Custom Racewear**: Design helmets, suits, gloves, boots, and visors with vibrant colors and patterns.
+- **Helmet Studio**: Pick shapes (Standard, Aero, Retro), add decals, and upload sponsor logos.
+- **24 Race Presets**: Unique designs for every 2025 F1 Grand Prix (e.g., Monaco’s Gold Spark).
+- **3D & AR Previews**: See designs in 2D canvas and 3D Three.js, ready for AR showcases.
+- **AI Analysis**: Insights on aerodynamics, comfort, and grip.
+- **Race Weekend Sharing**: Share to F1StyleHub or RaceWearX during races.
+- **Kræe UI**: Dark theme with gold gradients, slide-in animations, and hover effects.
 
-In the project directory, you can run:
+## 🚀 Getting Started
 
-### `npm start`
+### Prerequisites
+- **Node.js** (v18.x): [Install](https://nodejs.org)
+- **Git**: Check with `git --version` (install via `xcode-select --install` if missing)
+- **Visual Studio Code** (optional): [Download](https://code.visualstudio.com)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### Installation
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/Ishika5698/FashionF1Platform.git
+   cd FashionF1Platform
